@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @nobtax
-- 👀 I’m interested in ...data scince and machine learning 
+- 👀 I’m interested in ...data science
+ and machine learning 
 - 🌱 I’m currently learning ...msc data science 
 - 💞️ I’m looking to collaborate on ...any simple machine learning projects
 - 📫 How to reach me ...
